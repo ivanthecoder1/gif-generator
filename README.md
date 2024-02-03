@@ -7,5 +7,5 @@ A simple Bash and ZX script to generate a gif based on user input. Created this 
 ## How it works
 | View |
 | ------------- | 
-|<img width="600" src="gif/gifGenerator">| 
+<img src='gifGenerator.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
